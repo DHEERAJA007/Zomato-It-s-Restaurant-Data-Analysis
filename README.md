@@ -4,7 +4,6 @@
 This project analyzes restaurant data inspired by food delivery platforms like Swiggy and Zomato.
 
 ## Tools
-- Python
 - Pandas
 - Seaborn
 - Matplotlib
